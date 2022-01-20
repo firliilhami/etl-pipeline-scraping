@@ -1,3 +1,3 @@
 # etl-pipeline-scraping
 
-![plot](./images/DE Diagram.png)
+![plot]('./images/DE Diagram.jpg')
