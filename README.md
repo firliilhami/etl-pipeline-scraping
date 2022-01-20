@@ -10,4 +10,4 @@ Scraping and ETL tasks are executed periodically by Airflow DAGs
 * Second task is ETL. Extracting data from landing in database and then do some transformation. Finally, store data to data warehouse in postgres database.
 * Airflow and Postgresql Database are deployed into kubernetes cluster
 * All the tasks are made into docker image
-* Running the DAGs using KubernetedPodOPerator
+* Running the tasks using KubernetedPodOPerator
